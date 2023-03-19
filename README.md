@@ -2,8 +2,8 @@
 <h3 align="center">A passionate backend developer from Japan</h3>
 <h3 align="left">Most user language & GitHub Stats:</h3>
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsuya-Ohara&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Tatsuya-Ohara&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohara0220&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tohara0220&show_icons=ture" />
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
