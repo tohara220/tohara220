@@ -8,6 +8,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,tailwind,selenium,linux,ai,github,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=py,django,js,tailwind,selenium,linux,github,vscode" />
   </a>
 </p>
